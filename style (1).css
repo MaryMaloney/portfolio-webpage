@@ -1,0 +1,91 @@
+/* -------  General Styles ------- */
+
+body {
+  margin: 0;
+  font-family: Monaco, "Lucinda Console", "Courier New";
+  background-color: #E7CFBC;
+}
+
+header {
+  height: 150px;
+  background-color: #8A6552;
+}
+
+.logo {
+  font-family: Monaco, "Lucinda Console", "Courier New";
+  font-size: 55px;
+  color: #FFE0B5;
+  text-align: center;
+  letter-spacing: -2;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+header h2 {
+  font-family Monaco, "Lucinda Console", "Courier New";
+  color: #FFE0B5;
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color:  #8A6552;
+  color: #FFE0B5;
+  height: 40px;
+  padding: 20px;
+}
+
+section {
+  padding: 0 20%;
+  margin: 80px 0;
+}
+
+/* -------  Type ------- */
+
+h1, h2, h3 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #462521;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: -2;
+}
+
+h1 {font-size: 30px;}
+h2 {font-size: 28px;}
+h3 {font-size: 22px;}
+
+p,li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5em;
+  margin-bottom: 0
+}
+
+a{
+  font-weight: 500;
+}
+
+a:link {color: #CA2E55}
+a:visited {color:#CA2E55}
+a:hover {color:#BDB246}
+a:active {color:#BDB246}
+
+
+footer p{
+  text-align: center
+}
+
+/* -------  Elements ------- */
+
+img {
+  width: 100%;
+  border: 1px solid #462521;
+}
+
+
+  hr {
+  height: 1px;
+  background-color:   #8A6552;
+  border: 1px solid   #8A6552;  
+  padding: 0 20%;
+}
