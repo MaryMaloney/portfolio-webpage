@@ -1,10 +1,12 @@
-/* -------  General Styles ------- */
+/* -------  General  ------- */
 
 body {
   margin: 0;
   font-family: Monaco, "Lucinda Console", "Courier New";
   background-color: #E7CFBC;
 }
+
+/* -------  Headers  ------- */
 
 header {
   height: 150px;
@@ -29,6 +31,8 @@ header h2 {
   text-align: center;
 }
 
+/* -------  Footer  ------- */
+
 footer {
   background-color:  #8A6552;
   color: #FFE0B5;
@@ -41,7 +45,7 @@ section {
   margin: 80px 0;
 }
 
-/* -------  Type ------- */
+/* -------  Header Type ------- */
 
 h1, h2, h3 {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -54,6 +58,8 @@ h1, h2, h3 {
 h1 {font-size: 30px;}
 h2 {font-size: 28px;}
 h3 {font-size: 22px;}
+
+/* -------  p,li,a,footer Type ------- */
 
 p,li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
